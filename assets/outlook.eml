@@ -1,0 +1,44 @@
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00800000
+X-Mozilla-Keys:                                                                                 
+To: You <your@email.tld>
+From: "Malicious, Actor" <attacker@whatever.tld>
+Subject: test
+Message-ID: <90afca98-c4c9-a090-d03d-390ed25b950f@whatever.tld>
+Date: Wed, 8 Jan 2020 18:39:34 +0100
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:68.0) Gecko/20100101
+ Thunderbird/68.3.1
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="------------B9F139E2347988CEFA95E60F"
+Content-Language: en-US
+
+This is a multi-part message in MIME format.
+--------------B9F139E2347988CEFA95E60F
+Content-Type: text/plain; charset=utf-8; format=flowed
+Content-Transfer-Encoding: 7bit
+
+This is the awesome troubleshooter that can boost your computer by 100% <file:////webdav-test.herokuapp.com@ssl/DavWWWRoot/config>
+
+
+
+
+--------------B9F139E2347988CEFA95E60F
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <head>
+
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  </head>
+  <body>
+    <p><a
+        href="file:////webdav-test.herokuapp.com@ssl/DavWWWRoot/config">This is the awesome troubleshooter that can boost your computer by 100%</a></p>
+    <p>test2</p>
+    <p><br>
+    </p>
+  </body>
+</html>
+
+--------------B9F139E2347988CEFA95E60F--
